@@ -6,31 +6,6 @@
 *.user
 *.userosscache
 *.sln.docstates
-
-# Build results
-[Dd]ebug/
-[Dd]ebugPublic/
-[Rr]elease/
-[Rr]eleases/
-x64/
-x86/
-[Aa][Rr][Mm]/
-[Aa][Rr][Mm]64/
-bld/
-[Bb]in/
-[Oo]bj/
-[Ll]og/
-
-# Visual Studio cache/options directory
-.vs/
-
-# Visual Studio Code
-.vscode/
-
-# Rider
-.idea/
-
-# User-specific files
 *.rsuser
 
 # Build results
@@ -48,6 +23,16 @@ bld/
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
+
+# Visual Studio cache/options directory
+.vs/
+
+# Visual Studio Code
+.vscode/
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
 
 # .NET Core
 project.lock.json
@@ -73,8 +58,3 @@ artifacts/
 _ReSharper*/
 *.[Rr]e[Ss]harper
 *.DotSettings.user
-
-# JetBrains Rider
-.idea/
-*.sln.iml
-
